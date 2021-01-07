@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "AngularRawmaterial"
+    }
+  },
+  "defaultProject": "AngularRawmaterial",
+  "cli": {
+    "analytics": "c43a2173-5543-42e8-8012-70225eeb3b9f"
+  }
 }
